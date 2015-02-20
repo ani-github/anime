@@ -1,0 +1,5 @@
+#!/usr/bin/sed -f
+s/\./\ de\ geso\./g
+s/\?/\ de\ geso\?/g
+s/\!/\ de\ geso\!/g
+s/\…/\ de\ geso\…/g
